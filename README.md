@@ -1,2 +1,2 @@
 # Chess
-Chess game with special fairy pieces and movesets
+The project involves creating a class named ChessVar to play a variant of chess. The game starts with the standard chess position and follows the same rules, except there is no check, checkmate, castling, en passant, or pawn promotion. The game ends when a player's king is captured. This variant introduces two new pieces, the Falcon and the Hunter, which can be brought into play after a player loses certain pieces. The ChessVar class must include methods to initialize data members, get the game state, make a move, and enter a new piece into play. The game uses algebraic notation for board locations and includes special rules for the new pieces.
